@@ -1,16 +1,64 @@
-## Hi there 👋
+# 🌟 MADALA NAVEEN  
 
-<!--
-**naveen-557/naveen-557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📞 **Phone:** 7569832471  
+✉️ **Email:** naveenchowdary557@gmail.com, 210304124003@paruluniversity.ac.in  
 
-Here are some ideas to get you started:
+![Hello GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🎓 Education  
+
+- **10th Class**  
+  - **Year:** 2019  
+  - **Board:** BIEAP  
+  - **Percentage:** 9.7  
+  - **School:** Bhashyam Schools  
+
+- **12th Class**  
+  - **Year:** 2021  
+  - **Board:** BIEAP  
+  - **Marks:** 927/1000  
+  - **College:** Narayana Junior College  
+
+- **B.Tech**  
+  - **Year:** 2021-2025 (Ongoing)  
+  - **University:** Parul University  
+  - **Current CGPA:** 6.3  
+
+---
+
+## 💻 Project  
+
+### **AI-Driven Medical Records Management**  
+A project focused on leveraging Artificial Intelligence to efficiently manage and organize medical records.  
+
+![Project Demo](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)  
+
+- **Objective:** To streamline medical data handling for better accessibility and organization.  
+- **Technologies Used:** Python, Machine Learning, Database Management Systems, and Data Visualization Tools.  
+- **Key Features:**  
+  - Automated record categorization.  
+  - Intelligent search and retrieval.  
+  - Security and privacy of medical data.  
+
+---
+
+## 🌟 About Me  
+
+![About Me GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+
+An aspiring engineer with a strong interest in AI and machine learning. Passionate about building impactful projects and continuously learning new technologies.  
+
+---
+
+## 📧 Contact  
+
+Feel free to connect with me:  
+- **Phone:** 7569832471  
+- **Email:** naveenchowdary557@gmail.com, 210304124003@paruluniversity.ac.in  
+
+---
+
+
 -->
