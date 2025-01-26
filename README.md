@@ -1,9 +1,15 @@
-# 🌟 MADALA NAVEEN  
+# 🌟 Madala Naveen  
 
-📞 **Phone:** 7569832471  
-✉️ **Email:** naveenchowdary557@gmail.com, 210304124003@paruluniversity.ac.in  
+📞 **Phone:** +91 7569832471  
+✉️ **Email:** [naveenchowdary557@gmail.com](mailto:naveenchowdary557@gmail.com) | [210304124003@paruluniversity.ac.in](mailto:210304124003@paruluniversity.ac.in)  
 
-![Hello GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
+---
+
+## 👋 About Me  
+
+![Professional GIF](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)  
+
+I am an aspiring **AI/ML Engineer** with a passion for solving real-world problems using Artificial Intelligence and data-driven solutions. I enjoy learning new technologies and applying them to create impactful projects. My academic and professional journey reflects a strong commitment to continuous learning and innovation.
 
 ---
 
@@ -21,44 +27,74 @@
   - **Marks:** 927/1000  
   - **College:** Narayana Junior College  
 
-- **B.Tech**  
+- **B.Tech in Computer Science**  
   - **Year:** 2021-2025 (Ongoing)  
   - **University:** Parul University  
   - **Current CGPA:** 6.3  
 
 ---
 
-## 💻 Project  
+## 💻 Key Project  
 
 ### **AI-Driven Medical Records Management**  
-A project focused on leveraging Artificial Intelligence to efficiently manage and organize medical records.  
+A project designed to revolutionize the way medical records are stored and retrieved by leveraging Artificial Intelligence.  
 
-![Project Demo](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)  
+![Medical Records GIF](https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif)  
 
-- **Objective:** To streamline medical data handling for better accessibility and organization.  
-- **Technologies Used:** Python, Machine Learning, Database Management Systems, and Data Visualization Tools.  
-- **Key Features:**  
-  - Automated record categorization.  
-  - Intelligent search and retrieval.  
-  - Security and privacy of medical data.  
+#### **Objective:**  
+- To automate and optimize the management of medical data for improved accessibility and privacy.
 
----
+#### **Technologies Used:**  
+- **Programming Languages:** Python  
+- **Libraries/Frameworks:** TensorFlow, Pandas, Scikit-learn  
+- **Tools:** Jupyter Notebook, Database Management Systems  
 
-## 🌟 About Me  
-
-![About Me GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
-
-An aspiring engineer with a strong interest in AI and machine learning. Passionate about building impactful projects and continuously learning new technologies.  
+#### **Key Features:**  
+- Intelligent categorization of medical records.  
+- Advanced search and retrieval system using AI.  
+- Ensures data security and patient privacy.  
 
 ---
 
-## 📧 Contact  
+## 🛠️ Technical Skills  
 
-Feel free to connect with me:  
-- **Phone:** 7569832471  
-- **Email:** naveenchowdary557@gmail.com, 210304124003@paruluniversity.ac.in  
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=MySQL&logoColor=white)  
+
+### **AI/ML Tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  
+
+### **Other Tools**  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)  
 
 ---
 
+## 📬 Contact  
 
--->
+![Contact GIF](https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif)  
+
+Feel free to reach out to me for collaborations, opportunities, or discussions:  
+- **Phone:** +91 7569832471  
+- **Email:** [naveenchowdary557@gmail.com](mailto:naveenchowdary557@gmail.com)  
+- **LinkedIn:** [Your LinkedIn Profile](#) (Add your LinkedIn link here)  
+
+---
+
+## 📝 License  
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👀 Preview  
+
+![Preview GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+
+---
+
+**"Turning ideas into innovation with AI!"**
