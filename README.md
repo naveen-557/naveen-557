@@ -3,9 +3,9 @@ If you're looking for someone who not only delivers high-quality, data-driven re
 
 <div style="display: flex; justify-content: space-around; height: 50%; width: 100%;">
 
-  <img src="https://media.giphy.com/media/vA2EUQWPNSfCg/giphy.gif?cid=790b76112e0cgy1upi36tev6fguf7yrf1k70k1jf84g76uv8&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF 1" width="45%" height="auto" />
+  <img src="https://media.giphy.com/media/3o6QL6BkYYlWuu66oE/giphy.gif?cid=ecf05e477260rb0nn9mwivfvpugefsq2835bc7z9rwir6cu5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF 2" width="45%" height="auto"  />
   
-  <img src="https://media.giphy.com/media/UUNlWv7pmr516/giphy.gif?cid=ecf05e47a7hhxaaiy9842q42vgkbba7qowg9dxv19hon7bsj&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF 2" width="45%" height="auto" />
+  <img src="https://media.giphy.com/media/hVEBWRInEvNOEVS18i/giphy.gif?cid=ecf05e47zy3fvksyzjyce9mytaesvrv12phzywyhzvedot19&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="GIF 2" width="45%" height="auto" />
 
 </div>
 
@@ -65,12 +65,6 @@ I’ve always been fascinated by space exploration 🌌 and love to automate thi
 
 ---
 
-## 📫 Connect with Me!
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eswar854/)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ishuu.me/)
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eswaryadav8543@gmail.com)
-- ![GitHub followers](https://img.shields.io/github/followers/ishuu9837?style=social)
 
 ---
 
